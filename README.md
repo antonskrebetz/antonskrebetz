@@ -5,7 +5,7 @@ My name is Anton and I am front-end developer!
 
 ## ✉️ Find me on:
 <p align="left">
- <a href="https://linkedin.com/antonskrebetz" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
+ <a href="https://www.linkedin.com/in/antonskrebetz/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
  <a href="mailto:antonskrebetz@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png"></a>
  <a href="https://www.instagram.com/antonskrebetz/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
 </p>

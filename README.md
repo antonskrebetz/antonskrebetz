@@ -1,5 +1,3 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=antonskrebetz.antonskrebetz)
-
 ### Hi there 👋
 My name is Anton and I am front-end developer!
 
@@ -24,5 +22,4 @@ My name is Anton and I am front-end developer!
 </p>
 
 ## 🏆 GitHub stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=antonskrebetz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonskrebetz&theme=radical&layout=compact)

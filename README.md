@@ -20,6 +20,3 @@ My name is Anton and I am front-end developer!
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png">
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png">
 </p>
-
-## 🏆 GitHub stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonskrebetz&theme=radical&layout=compact)
